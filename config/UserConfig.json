@@ -1,0 +1,60 @@
+{
+  "funcionario": {
+    "user name": "DURBINA",
+    "user password": "123456",
+    "first name": "Diana",
+    "Last name": "Urbina",
+    "token": "U2FsdGVkX1/KCW/5LZyxHTKt1+PZl9Sz+MJI0Cqi3ys="
+  },
+  "funcionario2": {
+    "user name": "MFALEN",
+    "user password": "123456",
+    "first name": "Carmen",
+    "Last name": "Olarte",
+    "token": "U2FsdGVkX1+noprbPaYZ8izZ4mdgy6LP8k1WVY8+XDI="
+  },
+  "funcionario3": {
+    "user name": "LJARAMILLO",
+    "user password": "123456",
+    "first name": "Carmen",
+    "Last name": "Olarte",
+    "token": "U2FsdGVkX19ZxmGUVTBF3UKPZytd3400ZKfSyk2cji8="
+  },
+  "funcionario4": {
+    "user name": "FDIAZPO",
+    "user password": "123456",
+    "first name": "Carmen",
+    "Last name": "Olarte",
+    "token": "U2FsdGVkX19KGf5Cv1SqhPjHqRi5B6NpuPa+BHRnXeM="
+  },
+  "funcionario5": {
+    "user name": "KVARGASR",
+    "user password": "123456",
+    "first name": "Carmen",
+    "Last name": "Olarte",
+    "token": "U2FsdGVkX1+4F7uDOYC3h9I8uUGkOII5pSxCS96mgKc="
+  },
+  "funcionario6": {
+    "user name": "colarte",
+    "user password": "123456",
+    "first name": "Carmen",
+    "Last name": "Olarte",
+    "token": "U2FsdGVkX1+o6N1Xlp3uZR1EHXGz6fDLujD5tW8KLQg="
+  },
+  "funcionario7": {
+    "user name": "scampos",
+    "user password": "123456",
+    "celula id": "1",
+    "first name": "Stefany",
+    "Last name": "Campos",
+    "token": "U2FsdGVkX1+iUke5K5m6ZaBeq9Q8XDgqU0SLJduk6WU="
+  },
+  "funcionario8": {
+    "user name": "CSHIELL",
+    "user password": "123456",
+    "celula id": "28",
+    "first name": "Carmen",
+    "Last name": "Shiell",
+    "token": "U2FsdGVkX1+Y1PZdqOS5XCwKEo7Qx3eQ3yuQpn4tUEo="
+  }
+}

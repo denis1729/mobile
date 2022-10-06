@@ -1,0 +1,26 @@
+{
+  "android": {
+    "deviceName": "emulator-5554",
+    "platformName": "android",
+    "platformVersion": "9",
+    "appPackage": "com.pe.pandero.movil.IngVtaApp",
+    "appActivity": ".MainActivity",
+    "noReset": "true"
+  },
+  "ios": {
+    "deviceName": "emulator-5556",
+    "platformName": "android",
+    "platformVersion": "11",
+    "appPackage": "com.pe.pandero.movil.IngVtaApp",
+    "appActivity": ".MainActivity",
+    "noReset": "true"
+  },
+  "windows": {
+    "deviceName": "emulator-5554",
+    "platformName": "android",
+    "platformVersion": "9",
+    "appPackage": "com.pe.pandero.movil.IngVtaApp",
+    "appActivity": ".MainActivity",
+    "noReset": "true"
+  }
+}

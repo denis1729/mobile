@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Pandero" verbose="1" parallel="methods" annotations="JDK">
+    <listeners>
+        <listener class-name="pandero.app.utils.run_failed_tcs.AnnotationTransformer"/>
+    </listeners>
+    <test name="Test app ventas" thread-count="9">
+        <classes>
+            <class name="pandero.app.runner.TestLoginSuite"/>
+            <class name="pandero.app.runner.TestLoginAlias"/>
+        </classes>
+    </test>
+</suite>

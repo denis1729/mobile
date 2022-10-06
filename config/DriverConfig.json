@@ -1,0 +1,7 @@
+{
+  	"driver wait": {
+	  "implicit wait time":"20",
+	  "explicit wait time":"20",
+	  "wait sleep time":"500"
+	}
+}
